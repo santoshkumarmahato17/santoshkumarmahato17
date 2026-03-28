@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is SANTOSH KUMAR MAHATO and I'm a COMPUTER SCIENCE & IT LEARNER, from NEPAL BUT CURRENT IN INDIA</h2>
+<h2 align="left">Hi 👋! My name is SANTOSH KUMAR MAHATO and I'm a COMPUTER SCIENCE & IT LEARNER</h2>
 
 
 
