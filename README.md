@@ -2,8 +2,9 @@
 
 
 
-
-<h2 align="left">Hi 👋! My name is SANTOSH KUMAR MAHATO and I'm a COMPUTER SCIENCE & IT LEARNER | Open Source Contributer GSSOC'26</h2>
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
 
 
