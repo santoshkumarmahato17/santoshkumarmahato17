@@ -1,3 +1,8 @@
+<img width=100% title="Harsh Vardhan " alt="HARSH VARDHAN" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harsh-🔰-Vardhan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+
+
+
 <h2 align="left">Hi 👋! My name is SANTOSH KUMAR MAHATO and I'm a COMPUTER SCIENCE & IT LEARNER | Open Source Contributer GSSOC'26</h2>
 
 
