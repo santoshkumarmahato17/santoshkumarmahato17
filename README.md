@@ -9,7 +9,7 @@
 *Contributer (Developer / Programmer)*
 <br /> 
 
-<p align="left">I am a Full Stack Developer and Computer science Enthusiast with a huge love for Python, Java, C/C++and Data Visualization. </p>
+<p align="left">I am a Software developer | currently pursuing Bachelor of Engineering Computer Science. </p>
 <!--End Intro-->
 
 
