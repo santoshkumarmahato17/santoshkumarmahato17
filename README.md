@@ -32,8 +32,7 @@ Right now, I am mastering core programming concepts, data structures, and algori
 </ul>
 <br />
 <br />
-<br />
-<br />
+
 
 
 
