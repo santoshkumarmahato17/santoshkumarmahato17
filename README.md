@@ -16,6 +16,20 @@
 ---
 
 <!--About Section-->
+<h3 align="left">ABOUT</h3>
+<ul align="left">
+  <li>I am a Computer Science and Engineering student focused on building a strong foundation in software engineering, with the long-term goal of pursuing a Master’s degree in Cybersecurity.
+
+Right now, I am mastering core programming concepts, data structures, and algorithms. I am fascinated by how software operates under the hood, and I look forward to combining my development skills with advanced security principles as I progress in my studies.
+
+∆ Current Skills & Interests:
+-Core Programming: [List your languages, e.g., C/C++, java, Python ]
+-Academic Focus: Data Structures and Algorithm Object-Oriented Programming (OOP)
+-Cybersecurity Interests: Security Analysis, Secure Coding Basics, Offensive security /Defensi security
+I am eager to connect with industry professionals, join student tech communities, and collaborate on software projects.
+📧 Contact:  kr.santoshmahato@gmail.com
+.</li>
+</ul>
 
 
 
