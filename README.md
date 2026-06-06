@@ -27,8 +27,10 @@ Right now, I am mastering core programming concepts, data structures, and algori
 - Academic Focus: Data Structures and Algorithm Object-Oriented Programming (OOP)
 - Cybersecurity Interests: Security Analysis, Secure Coding Basics, Offensive security /Defensi security
 <li>I am eager to connect with industry professionals, join student tech communities, and collaborate on software projects</li>.
-📧 [harishvardhanm24cs@psnacet.edu.in](mailto:harishvardhanm24cs@psnacet.edu.in)
-.</li>
+
+📧 [kr.santoshmahato@gmail.com](mailto:kr.santoshmahato@gmail.com)
+📧 [santhoshkumarmahato25cs@psnacet.edu.in](mailto:santhoshkumarmahato25cs@psnacet.edu.in)
+</li>
 </ul>
 <br />
 <br />
