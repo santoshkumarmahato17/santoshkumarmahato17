@@ -28,9 +28,8 @@ Right now, I am mastering core programming concepts, data structures, and algori
 - Cybersecurity Interests: Security Analysis, Secure Coding Basics, Offensive security /Defensi security
 <li>I am eager to connect with industry professionals, join student tech communities, and collaborate on software projects</li>
 
-📧 [kr.santoshmahato@gmail.com](mailto:kr.santoshmahato@gmail.com)
-
-📧 [santhoshkumarmahato25cs@psnacet.edu.in](mailto:santhoshkumarmahato25cs@psnacet.edu.in)
+- 📧 [kr.santoshmahato@gmail.com](mailto:kr.santoshmahato@gmail.com)
+- 📧 [santhoshkumarmahato25cs@psnacet.edu.in](mailto:santhoshkumarmahato25cs@psnacet.edu.in)
 </li>
 </ul>
 <br />
