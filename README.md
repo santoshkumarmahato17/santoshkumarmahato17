@@ -27,9 +27,13 @@ Right now, I am mastering core programming concepts, data structures, and algori
 - Academic Focus: Data Structures and Algorithm Object-Oriented Programming (OOP)
 - Cybersecurity Interests: Security Analysis, Secure Coding Basics, Offensive security /Defensi security
 <li>I am eager to connect with industry professionals, join student tech communities, and collaborate on software projects</li>.
-📧 Contact:  kr.santoshmahato@gmail.com
+📧 [kr.santoshmahato@gmail.com](mailto:kr.santoshmahato@gmail.com)
 .</li>
 </ul>
+<br />
+<br />
+<br />
+<br />
 
 
 
