@@ -9,7 +9,7 @@
 *Gssoc'26 Contributer (Developer / Programmer)*
 <br /> 
 
-<p align="left"> Soft Developer |Open Source Contributor (GSSoC '26) | Cybersecurity Enthusiast | currently pursuing Bachelor of Engineering Computer Science. </p>
+<p align="left"> Software Developer |Open Source Contributor (GSSoC '26) | Cybersecurity Enthusiast | currently pursuing Bachelor of Engineering Computer Science. </p>
 <!--End Intro-->
 
 
