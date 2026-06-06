@@ -6,10 +6,10 @@
 </div>
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ SANTOSH! 
-*Contributer (Developer / Programmer)*
+*Gssoc'26 Contributer (Developer / Programmer)*
 <br /> 
 
-<p align="left">I am a Software developer | currently pursuing Bachelor of Engineering Computer Science. </p>
+<p align="left">I am a Software developerSoftware Developer | Open Source Contributor (GSSoC '26) | Building scalable applications, contributing to open source, and passionate about Cybersecurity, software development, and solving real-world problems. | currently pursuing Bachelor of Engineering Computer Science. </p>
 <!--End Intro-->
 
 
