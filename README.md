@@ -20,12 +20,11 @@
 <ul align="left">
   <li>My name is Santosh Kumar Mahato, and I am currently pursuing a Bachelor of Engineering in Computer Science (2nd Year). I am passionate about software development and cybersecurity, with a strong interest in building practical solutions and continuously expanding my technical knowledge.
     
-I have experience with programming, version control using Git and GitHub, and effective communication. I am also multilingual, speaking five languages, which helps me connect with people from diverse cultural backgrounds and collaborate effectively in teams.
+I have experience with programming(like:- Python, Java, C/C++), version control using Git and GitHub, and effective communication. I am also multilingual, speaking languages(like:- English, Nepali, Hindi, Maithili, Bhajpuri, which helps me connect with people from diverse cultural backgrounds and collaborate effectively in teams.
 
 As a multicultural student, I enjoy learning from different perspectives and adapting to new environments. My current goal is to transform my academic knowledge into practical experience by contributing to real-world projects, participating in technical communities, and gaining hands-on exposure to software development and cybersecurity.
 
 I am eager to learn, collaborate, and create meaningful impact through technology while continuing to develop my technical and professional skills.
-<li>I am eager to connect with industry professionals, join student tech communities, and collaborate on software projects</li>
 
 - 📧 [kr.santoshmahato@gmail.com](mailto:kr.santoshmahato@gmail.com)
 - 📧 [santhoshkumarmahato25cs@psnacet.edu.in](mailto:santhoshkumarmahato25cs@psnacet.edu.in)
