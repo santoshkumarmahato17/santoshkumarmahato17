@@ -18,14 +18,13 @@
 <!--About Section-->
 <h3 align="left">ABOUT</h3>
 <ul align="left">
-  <li>I am a Computer Science and Engineering student focused on building a strong foundation in software engineering, with the long-term goal of pursuing a Master’s degree in Cybersecurity.
+  <li>My name is Santosh Kumar Mahato, and I am currently pursuing a Bachelor of Engineering in Computer Science (2nd Year). I am passionate about software development and cybersecurity, with a strong interest in building practical solutions and continuously expanding my technical knowledge.
+    
+I have experience with programming, version control using Git and GitHub, and effective communication. I am also multilingual, speaking five languages, which helps me connect with people from diverse cultural backgrounds and collaborate effectively in teams.
 
-Right now, I am mastering core programming concepts, data structures, and algorithms. I am fascinated by how software operates under the hood, and I look forward to combining my development skills with advanced security principles as I progress in my studies.
+As a multicultural student, I enjoy learning from different perspectives and adapting to new environments. My current goal is to transform my academic knowledge into practical experience by contributing to real-world projects, participating in technical communities, and gaining hands-on exposure to software development and cybersecurity.
 
-∆ Current Skills & Interests:
-- Core Programming: [List your languages, e.g., C/C++, java, Python ]
-- Academic Focus: Data Structures and Algorithm Object-Oriented Programming (OOP)
-- Cybersecurity Interests: Security Analysis, Secure Coding Basics, Offensive security /Defensi security
+I am eager to learn, collaborate, and create meaningful impact through technology while continuing to develop my technical and professional skills.
 <li>I am eager to connect with industry professionals, join student tech communities, and collaborate on software projects</li>
 
 - 📧 [kr.santoshmahato@gmail.com](mailto:kr.santoshmahato@gmail.com)
