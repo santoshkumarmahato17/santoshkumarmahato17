@@ -38,7 +38,7 @@ I am eager to learn, collaborate, and create meaningful impact through technolog
 
 #### 🏆 Solved Problems Summary
 - **Total Solved:** `24`
-- **Last Updated:** `2026-06-26 02:31:05 India Standard Time`
+- **Last Updated:** `2026-06-26 02:36:17 India Standard Time`
 
 #### 📈 Topic-wise Distribution Chart
 ```mermaid
@@ -50,9 +50,22 @@ pie title Topic-wise Distribution
     "Queue" : 1
 ```
 
+#### 🔗 Clickable Topic Index & Legend
+| Color | Topic | Solved Count | Percentage |
+| :---: | :--- | :---: | :---: |
+| 🟦 | [**Arrays**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Arrays) | `20` | `83%` |
+| 🟪 | [**Strings**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Strings) | `2` | `8%` |
+| 🟩 | [**Trees**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Trees) | `0` | `0%` |
+| 🔷 | [**Graphs**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Graphs) | `0` | `0%` |
+| 🟥 | [**Dynamic Programming**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/DynamicProgramming) | `3` | `12%` |
+| 🟨 | [**Linked List**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/LinkedList) | `0` | `0%` |
+| 🟧 | [**Stack**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Stack) | `2` | `8%` |
+| 🔋 | [**Queue**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Queue) | `1` | `4%` |
+| 🟫 | [**Hash Map**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/HashMap) | `0` | `0%` |
+
 #### 📂 Topic-wise Breakdowns
 <details>
-<summary><b>Arrays</b> (20 solved)</summary>
+<summary><b><a href="https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Arrays">Arrays</a></b> (20 solved)</summary>
 <br>
 
 - [0011-container-with-most-water](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/0011-container-with-most-water)
@@ -79,7 +92,7 @@ pie title Topic-wise Distribution
 </details>
 
 <details>
-<summary><b>Strings</b> (2 solved)</summary>
+<summary><b><a href="https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Strings">Strings</a></b> (2 solved)</summary>
 <br>
 
 - [0125-valid-palindrome](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/0125-valid-palindrome)
@@ -88,7 +101,7 @@ pie title Topic-wise Distribution
 </details>
 
 <details>
-<summary><b>Trees</b> (0 solved)</summary>
+<summary><b><a href="https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Trees">Trees</a></b> (0 solved)</summary>
 <br>
 
 _No problems solved yet in this category._
@@ -96,7 +109,7 @@ _No problems solved yet in this category._
 </details>
 
 <details>
-<summary><b>Graphs</b> (0 solved)</summary>
+<summary><b><a href="https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Graphs">Graphs</a></b> (0 solved)</summary>
 <br>
 
 _No problems solved yet in this category._
@@ -104,7 +117,7 @@ _No problems solved yet in this category._
 </details>
 
 <details>
-<summary><b>Dynamic Programming</b> (3 solved)</summary>
+<summary><b><a href="https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/DynamicProgramming">Dynamic Programming</a></b> (3 solved)</summary>
 <br>
 
 - [0042-trapping-rain-water](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/0042-trapping-rain-water)
@@ -114,7 +127,7 @@ _No problems solved yet in this category._
 </details>
 
 <details>
-<summary><b>Linked List</b> (0 solved)</summary>
+<summary><b><a href="https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/LinkedList">Linked List</a></b> (0 solved)</summary>
 <br>
 
 _No problems solved yet in this category._
@@ -122,7 +135,7 @@ _No problems solved yet in this category._
 </details>
 
 <details>
-<summary><b>Stack</b> (2 solved)</summary>
+<summary><b><a href="https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Stack">Stack</a></b> (2 solved)</summary>
 <br>
 
 - [0042-trapping-rain-water](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/0042-trapping-rain-water)
@@ -131,7 +144,7 @@ _No problems solved yet in this category._
 </details>
 
 <details>
-<summary><b>Queue</b> (1 solved)</summary>
+<summary><b><a href="https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Queue">Queue</a></b> (1 solved)</summary>
 <br>
 
 - [0658-find-k-closest-elements](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/0658-find-k-closest-elements)
@@ -139,7 +152,7 @@ _No problems solved yet in this category._
 </details>
 
 <details>
-<summary><b>Hash Map</b> (0 solved)</summary>
+<summary><b><a href="https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/HashMap">Hash Map</a></b> (0 solved)</summary>
 <br>
 
 _No problems solved yet in this category._
