@@ -1,0 +1,15 @@
+{
+  "total_solved": 24,
+  "topic_distribution": {
+    "Arrays": 20,
+    "Strings": 2,
+    "Trees": 0,
+    "Graphs": 0,
+    "DynamicProgramming": 3,
+    "LinkedList": 0,
+    "Stack": 2,
+    "Queue": 1,
+    "HashMap": 0
+  },
+  "last_updated": "2026-06-26 02:16:21 India Standard Time"
+}
