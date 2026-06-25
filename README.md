@@ -36,43 +36,33 @@ I am eager to learn, collaborate, and create meaningful impact through technolog
 <!-- START_LEETCODE_STATS -->
 ### 📊 LeetCode Progress & Stats
 
-<div align="center">
-  <table border="0" style="border-collapse: collapse; border: none; width: 100%;">
-    <tr style="border: none;">
-      <td width="50%" valign="top" style="border: none; padding-right: 15px;">
-        <h4>🏆 Solved Problems Summary</h4>
-        <ul>
-          <li><b>Total Solved:</b> <code>24</code></li>
-          <li><b>Last Updated:</b> <code>2026-06-26 02:16:21 India Standard Time</code></li>
-        </ul>
-        <h4>📂 Topic-wise Breakdowns</h4>
-        <table style="width: 100%;">
-          <thead>
-            <tr>
-              <th align="left">Topic</th>
-              <th align="center">Solved Count</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr><td><b>Arrays</b></td><td align='center'><code>20</code></td></tr>
-            <tr><td><b>Strings</b></td><td align='center'><code>2</code></td></tr>
-            <tr><td><b>Trees</b></td><td align='center'><code>0</code></td></tr>
-            <tr><td><b>Graphs</b></td><td align='center'><code>0</code></td></tr>
-            <tr><td><b>Dynamic Programming</b></td><td align='center'><code>3</code></td></tr>
-            <tr><td><b>Linked List</b></td><td align='center'><code>0</code></td></tr>
-            <tr><td><b>Stack</b></td><td align='center'><code>2</code></td></tr>
-            <tr><td><b>Queue</b></td><td align='center'><code>1</code></td></tr>
-            <tr><td><b>Hash Map</b></td><td align='center'><code>0</code></td></tr>
-          </tbody>
-        </table>
-      </td>
-      <td width="50%" valign="top" align="center" style="border: none; padding-left: 15px;">
-        <h4>📈 Topic Distribution Chart</h4>
-        <img src="leetcode_stats.png" width="380px" alt="LeetCode Topic Distribution" />
-      </td>
-    </tr>
-  </table>
-</div>
+#### 🏆 Solved Problems Summary
+- **Total Solved:** `24`
+- **Last Updated:** `2026-06-26 02:25:18 India Standard Time`
+
+#### 📈 Topic-wise Distribution Chart
+```mermaid
+pie title Topic-wise Distribution
+    "Arrays" : 20
+    "Strings" : 2
+    "Dynamic Programming" : 3
+    "Stack" : 2
+    "Queue" : 1
+```
+
+#### 📂 Topic-wise Breakdowns
+| Topic | Solved Count |
+| :--- | :---: |
+| Arrays | `20` |
+| Strings | `2` |
+| Trees | `0` |
+| Graphs | `0` |
+| Dynamic Programming | `3` |
+| Linked List | `0` |
+| Stack | `2` |
+| Queue | `1` |
+| Hash Map | `0` |
+
 <!-- END_LEETCODE_STATS -->
 
 
