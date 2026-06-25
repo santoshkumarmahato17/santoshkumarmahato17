@@ -38,7 +38,7 @@ I am eager to learn, collaborate, and create meaningful impact through technolog
 
 #### 🏆 Solved Problems Summary
 - **Total Solved:** `24`
-- **Last Updated:** `2026-06-26 02:49:57 India Standard Time`
+- **Last Updated:** `2026-06-26 02:56:48 India Standard Time`
 
 #### 📈 Topic-wise Distribution Chart
 ```mermaid
@@ -53,13 +53,13 @@ pie title Topic-wise Distribution
 #### 🔗 Clickable Topic Index & Legend
 | Color | Topic | Solved Count | Percentage | Progress Bar |
 | :---: | :--- | :---: | :---: | :---: |
-| 🟦 | [**Arrays**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Arrays) | `20` | `83%` | `████████░░` |
-| 🟪 | [**Strings**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Strings) | `2` | `8%` | `█░░░░░░░░░` |
+| 🟦 | [**Arrays**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Arrays) | `20` | `71%` | `███████░░░` |
+| 🟪 | [**Strings**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Strings) | `2` | `7%` | `█░░░░░░░░░` |
 | 🟩 | [**Trees**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Trees) | `0` | `0%` | `░░░░░░░░░░` |
 | 🔷 | [**Graphs**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Graphs) | `0` | `0%` | `░░░░░░░░░░` |
-| 🟥 | [**Dynamic Programming**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/DynamicProgramming) | `3` | `12%` | `█░░░░░░░░░` |
+| 🟥 | [**Dynamic Programming**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/DynamicProgramming) | `3` | `11%` | `█░░░░░░░░░` |
 | 🟨 | [**Linked List**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/LinkedList) | `0` | `0%` | `░░░░░░░░░░` |
-| 🟧 | [**Stack**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Stack) | `2` | `8%` | `█░░░░░░░░░` |
+| 🟧 | [**Stack**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Stack) | `2` | `7%` | `█░░░░░░░░░` |
 | 🔋 | [**Queue**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Queue) | `1` | `4%` | `░░░░░░░░░░` |
 | 🟫 | [**Hash Map**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/HashMap) | `0` | `0%` | `░░░░░░░░░░` |
 
