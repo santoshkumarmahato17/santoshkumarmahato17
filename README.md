@@ -45,33 +45,3 @@ I am eager to learn, collaborate, and create meaningful impact through technolog
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<!-- START_LEETCODE_STATS -->
-### 📊 LeetCode Progress & Stats
-
-#### 🏆 Solved Problems Summary
-- **Total Solved:** `24`
-- **Last Updated:** `2026-06-26 03:24:17 India Standard Time`
-
-#### 📈 Topic-wise Distribution Chart
-```mermaid
-pie title Topic-wise Distribution
-    "Arrays" : 20
-    "Strings" : 2
-    "Dynamic Programming" : 3
-    "Stack" : 2
-    "Queue" : 1
-```
-
-#### 🔗 Clickable Topic Index & Legend
-| Color | Topic | Solved Count | Percentage | Progress Bar |
-| :---: | :--- | :---: | :---: | :---: |
-| 🟦 | [**Arrays**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Arrays) | `20` | `71%` | `███████░░░` |
-| 🟪 | [**Strings**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Strings) | `2` | `7%` | `█░░░░░░░░░` |
-| 🟩 | [**Trees**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Trees) | `0` | `0%` | `░░░░░░░░░░` |
-| 🔷 | [**Graphs**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Graphs) | `0` | `0%` | `░░░░░░░░░░` |
-| 🟥 | [**Dynamic Programming**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/DynamicProgramming) | `3` | `11%` | `█░░░░░░░░░` |
-| 🟨 | [**Linked List**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/LinkedList) | `0` | `0%` | `░░░░░░░░░░` |
-| 🟧 | [**Stack**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Stack) | `2` | `7%` | `█░░░░░░░░░` |
-| 🔋 | [**Queue**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/Queue) | `1` | `4%` | `░░░░░░░░░░` |
-| 🟫 | [**Hash Map**](https://github.com/santoshkumarmahato17/leetcode-problem-solve/tree/master/HashMap) | `0` | `0%` | `░░░░░░░░░░` |
-
