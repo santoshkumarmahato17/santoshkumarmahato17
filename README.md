@@ -26,7 +26,7 @@ As a multicultural student, I enjoy learning from different perspectives and ada
 
 I am eager to learn, collaborate, and create meaningful impact through technology while continuing to develop my technical and professional skills.
 
-- 📧 [kr.santoshmahato@gmail.com](mailto:kr.santoshmahato@gmail.com)
+- 📧 [santoshkumarmahato.tech@gmail.com](mailto:santoshkumarmahato.tech@gmail.com)
 - 📧 [santhoshkumarmahato25cs@psnacet.edu.in](mailto:santhoshkumarmahato25cs@psnacet.edu.in)
 </li>
 </ul>
