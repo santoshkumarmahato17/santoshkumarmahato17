@@ -40,6 +40,7 @@ I am eager to learn, collaborate, and create meaningful impact through technolog
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="mailto:kr.santoshmahato@gmail.com"><img width="35px" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/icons/gmail_new_logo.png" alt="Gmail" /></a>
 <a href="https://twitter.com/kumar_sant88973" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumar_sant88973" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/-santosh-kumar-mahato/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/-santosh-kumar-mahato/" height="30" width="40" /></a>
 <a href="https://instagram.com/kr.santoshmahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kr.santoshmahato" height="30" width="40" /></a>
