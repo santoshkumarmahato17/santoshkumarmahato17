@@ -28,6 +28,10 @@ I am eager to learn, collaborate, and create meaningful impact through technolog
 
 - 📧 [santoshkumarmahato.tech@gmail.com](mailto:santoshkumarmahato.tech@gmail.com)
 - 📧 [santhoshkumarmahato25cs@psnacet.edu.in](mailto:santhoshkumarmahato25cs@psnacet.edu.in)
+<p align="right">
+<img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
+</p>
+
 </li>
 </ul>
 <br />
